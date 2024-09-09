@@ -1,3 +1,14 @@
+# Next AI: A Full-Stack RAG-Based Q&A AI Agent for PDF Document Queries
+
+●	Engineered an interactive conversational UI leveraging React and Ant Design, enabling users to effortlessly upload and interact with PDF documents in real-time
+
+●	Architected and implemented RESTful APIs via Express and Node.js, optimized for high-performance request handling
+
+●	Utilized a memory vector store to cache generated embeddings for efficient retrieval
+
+●	Integrated OpenAI's gpt-3.5-turbo API and Langchain technologies, resulting in a sophisticated AI Agent capable of document loading, splitting, storage, retrieval, and output functionalities
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
